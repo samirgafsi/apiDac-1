@@ -1,0 +1,12 @@
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/model/ColumnValue.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/model/RowValue.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/services/HBaseService.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/configs/HBaseConnectionFactory.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/api/ApiController.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/api/ExceptionHandlerAdvice.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/model/TableDescription.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/configs/HBaseConfig.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/Main.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/model/ColumnFamilyValue.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/services/ConversionsService.java
+/home/gafsi/DAC/apiDac/src/main/java/com/sgcib/dac/hbase/configs/SwaggerConfig.java

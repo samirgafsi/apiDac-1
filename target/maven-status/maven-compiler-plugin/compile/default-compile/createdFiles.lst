@@ -1,0 +1,12 @@
+com/sgcib/dac/hbase/model/ColumnFamilyValue.class
+com/sgcib/dac/hbase/configs/HBaseConfig.class
+com/sgcib/dac/hbase/model/TableDescription.class
+com/sgcib/dac/hbase/model/ColumnValue.class
+com/sgcib/dac/hbase/Main.class
+com/sgcib/dac/hbase/configs/HBaseConnectionFactory.class
+com/sgcib/dac/hbase/api/ApiController.class
+com/sgcib/dac/hbase/configs/SwaggerConfig.class
+com/sgcib/dac/hbase/api/ExceptionHandlerAdvice.class
+com/sgcib/dac/hbase/services/HBaseService.class
+com/sgcib/dac/hbase/services/ConversionsService.class
+com/sgcib/dac/hbase/model/RowValue.class
