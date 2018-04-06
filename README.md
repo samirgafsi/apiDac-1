@@ -1,2 +1,0 @@
-# Hbasexx
-# testHbase
